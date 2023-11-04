@@ -1,1 +1,1 @@
-"This is my README file!" 
+"This is README.md in my git repository!" 
